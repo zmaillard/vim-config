@@ -1,3 +1,14 @@
+### Pre-Req
+Install NVM
+Install NodeJS - LTS
+`nvm install v10.23.1`
+
+Install RbEnv
+
+Install Nix
+
+Install Oh-My-Zsh
+
 ### Vim
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
